@@ -23,6 +23,7 @@ helm repo update
 
 You can then run `helm search repo proagrica` to see the available charts and the latest version.
 
+
 ## License
 
 [MIT License](./LICENSE).
