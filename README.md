@@ -9,6 +9,7 @@ These charts are provided as-is with no warranties.
 The following charts are present in this repo.
 
 - [ClamAV](./charts/clamav)
+- [InfluxDB](./charts/influxdb)
 
 ## Usage
 
@@ -22,7 +23,6 @@ helm repo update
 ```
 
 You can then run `helm search repo proagrica` to see the available charts and the latest version.
-
 
 ## License
 
